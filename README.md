@@ -197,7 +197,7 @@ npm run web
 El desarrollo de esta aplicación fue un **esfuerzo colaborativo** entre dos desarrolladores Full-Stack. Ambos **co-creamos** y **contribuimos** a la arquitectura completa, el desarrollo de la lógica de negocio y la implementación del *stack* tecnológico (React Native, Expo, Firebase).
 
 - **Desarrollador:** Fernanda3920
-- **Desarrollador** LuisRoldanC
+- **Desarrollador:** LuisRoldanC
 - **Fecha de Inicio**: 2025
 - **Versión Actual**: 1.0.1
 - **Estado**: 🚀 En producción
